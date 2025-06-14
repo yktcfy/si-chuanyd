@@ -34,6 +34,8 @@ http://ipipip/rtp/239.93.0.19:1250
 http://ipipip/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-name="CDTV6" tvg-logo="https://live.fanmingming.com/tv/CDTV6.png" group-title="卫视高清",CDTV6
 http://ipipip/rtp/239.93.0.21:1251
+#EXTINF:-1 tvg-name="来钓鱼吧" tvg-logo="https://live.fanmingming.com/tv/来钓鱼吧.png" group-title="卫视高清",来钓鱼吧
+http://ipipip/rtp/239.93.42.8:5140
 #EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv华语影院.png" group-title="本地高清",bestv华语影院
 http://ipipip/rtp/239.93.0.138:5140
 #EXTINF:-1 tvg-name="bestv" tvg-logo="https://live.fanmingming.com/tv/bestv星光院线.png" group-title="本地高清",bestv星光院线

@@ -96,3 +96,5 @@ http://ipipip/rtp/239.93.42.32:5140
 http://ipipip/rtp/239.93.42.34:5140
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="影院高清",求索纪录
 http://ipipip/rtp/239.93.42.24:5140
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="影院高清",精彩影视
+http://ipipip/rtp/239.93.42.92:5140

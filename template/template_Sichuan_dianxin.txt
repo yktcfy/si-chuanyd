@@ -98,8 +98,6 @@ http://ipipip/rtp/239.93.42.34:5140
 http://ipipip/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png" group-title="影院高清",精彩影视
 http://ipipip/rtp/239.93.42.92:5140
-#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
-http://ipipip/rtp/239.93.1.195:5140
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="卫视高清",CHC家庭影院
 http://ipipip/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="卫视高清",CHC高清电影

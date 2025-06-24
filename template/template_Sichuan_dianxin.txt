@@ -108,3 +108,5 @@ http://ipipip/rtp/239.93.42.5:5140
 http://ipipip/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="央视高清",魅力足球
 http://ipipip/rtp/239.93.42.97:5140
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="央视高清",欢笑剧场
+http://ipipip/rtp/239.93.0.145:5140

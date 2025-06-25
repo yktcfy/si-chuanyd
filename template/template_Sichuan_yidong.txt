@@ -70,3 +70,5 @@ http://ipipip/rtp/239.10.0.84:5140
 http://ipipip/rtp/239.10.0.96:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
 http://ipipip/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
+http://ipipip/rtp/239.10.0.134:5140

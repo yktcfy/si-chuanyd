@@ -38,7 +38,7 @@ http://ipipip/rtp/239.10.0.66:5140
 http://ipipip/rtp/239.10.0.67:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
 http://ipipip/rtp/239.10.0.68:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
 http://ipipip/rtp/239.10.0.70:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
 http://ipipip/rtp/239.10.0.71:5140

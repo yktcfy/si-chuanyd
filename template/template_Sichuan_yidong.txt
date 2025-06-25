@@ -20,7 +20,7 @@ http://ipipip/rtp/239.10.0.57:5140
 http://ipipip/rtp/239.10.0.58:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
 http://ipipip/rtp/239.10.0.59:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
 http://ipipip/rtp/239.10.0.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
 http://ipipip/rtp/239.10.0.61:5140

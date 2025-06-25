@@ -3,7 +3,7 @@ if [ $# -eq 0 ]; then
   echo "开始测试······"
   echo "在5秒内输入1~4可选择城市"
   echo "请选择城市："
-  echo "1. 四川（Sichuan_dianxin）"
+  echo "1. 四川（Sichuan_yidong）"
   read -t 5 -p "超时未输入,将按默认设置测试" city_choice
 
   if [ -z "$city_choice" ]; then
@@ -17,8 +17,8 @@ fi
 # 设置城市和相应的stream
 case $city_choice in
     1)
-        city="Sichuan_dianxin"
-        stream="rtp/239.93.0.252:5140"
+        city="Sichuan_yidong"
+        stream="rtp/239.10.0.98:5140"
         ;;
     0)
         # 逐个处理{ }内每个选项

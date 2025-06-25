@@ -56,14 +56,17 @@ http://ipipip/rtp/239.10.0.77:5140
 http://ipipip/rtp/239.10.0.78:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
 http://ipipip/rtp/239.10.0.79:5140
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
+http://ipipip/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
+http://ipipip/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
+http://ipipip/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
+http://ipipip/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
+http://ipipip/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
+http://ipipip/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
+http://ipipip/rtp/239.10.0.98:5140

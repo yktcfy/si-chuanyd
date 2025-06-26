@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://ipipip/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://ipipip/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://ipipip/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合

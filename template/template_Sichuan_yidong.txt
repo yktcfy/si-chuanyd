@@ -50,7 +50,7 @@ http://ipipip/rtp/239.10.0.74:5140
 http://ipipip/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://ipipip/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://ipipip/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://ipipip/rtp/239.10.0.78:5140

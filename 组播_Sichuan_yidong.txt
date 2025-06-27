@@ -1,8 +1,6 @@
 Sichuan_yidong-组播,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://117.174.25.254:8188/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://117.174.25.254:8188/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://117.174.25.254:8188/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -51,7 +49,7 @@ http://117.174.25.254:8188/rtp/239.10.0.74:5140
 http://117.174.25.254:8188/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://117.174.25.254:8188/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://117.174.25.254:8188/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://117.174.25.254:8188/rtp/239.10.0.78:5140
@@ -75,8 +73,6 @@ http://117.174.25.254:8188/rtp/239.10.0.98:5140
 http://117.174.25.254:8188/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.220.107.138:4022/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.220.107.138:4022/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.220.107.138:4022/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -125,7 +121,7 @@ http://183.220.107.138:4022/rtp/239.10.0.74:5140
 http://183.220.107.138:4022/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.220.107.138:4022/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.220.107.138:4022/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.220.107.138:4022/rtp/239.10.0.78:5140
@@ -149,8 +145,6 @@ http://183.220.107.138:4022/rtp/239.10.0.98:5140
 http://183.220.107.138:4022/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.221.104.180:1723/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.221.104.180:1723/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.221.104.180:1723/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -199,7 +193,7 @@ http://183.221.104.180:1723/rtp/239.10.0.74:5140
 http://183.221.104.180:1723/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.221.104.180:1723/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.221.104.180:1723/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.221.104.180:1723/rtp/239.10.0.78:5140
@@ -223,8 +217,6 @@ http://183.221.104.180:1723/rtp/239.10.0.98:5140
 http://183.221.104.180:1723/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.221.193.148:4022/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.221.193.148:4022/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.221.193.148:4022/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -273,7 +265,7 @@ http://183.221.193.148:4022/rtp/239.10.0.74:5140
 http://183.221.193.148:4022/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.221.193.148:4022/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.221.193.148:4022/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.221.193.148:4022/rtp/239.10.0.78:5140
@@ -297,8 +289,6 @@ http://183.221.193.148:4022/rtp/239.10.0.98:5140
 http://183.221.193.148:4022/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.222.206.14:18097/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.222.206.14:18097/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.222.206.14:18097/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -347,7 +337,7 @@ http://183.222.206.14:18097/rtp/239.10.0.74:5140
 http://183.222.206.14:18097/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.222.206.14:18097/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.222.206.14:18097/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.222.206.14:18097/rtp/239.10.0.78:5140
@@ -371,8 +361,6 @@ http://183.222.206.14:18097/rtp/239.10.0.98:5140
 http://183.222.206.14:18097/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.222.206.14:8096/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.222.206.14:8096/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.222.206.14:8096/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -421,7 +409,7 @@ http://183.222.206.14:8096/rtp/239.10.0.74:5140
 http://183.222.206.14:8096/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.222.206.14:8096/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.222.206.14:8096/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.222.206.14:8096/rtp/239.10.0.78:5140
@@ -445,8 +433,6 @@ http://183.222.206.14:8096/rtp/239.10.0.98:5140
 http://183.222.206.14:8096/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.222.58.112:888/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",稻城综合
-http://183.222.58.112:888/rtp/239.10.0.29:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.222.58.112:888/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
@@ -495,7 +481,7 @@ http://183.222.58.112:888/rtp/239.10.0.74:5140
 http://183.222.58.112:888/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
 http://183.222.58.112:888/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文旅生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
 http://183.222.58.112:888/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
 http://183.222.58.112:888/rtp/239.10.0.78:5140

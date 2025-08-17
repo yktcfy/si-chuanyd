@@ -1,4 +1,220 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
+http://171.213.199.205:4000/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
+http://171.213.199.205:4000/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
+http://171.213.199.205:4000/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
+http://171.213.199.205:4000/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
+http://171.213.199.205:4000/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
+http://171.213.199.205:4000/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
+http://171.213.199.205:4000/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
+http://171.213.199.205:4000/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
+http://171.213.199.205:4000/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
+http://171.213.199.205:4000/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
+http://171.213.199.205:4000/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
+http://171.213.199.205:4000/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
+http://171.213.199.205:4000/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
+http://171.213.199.205:4000/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
+http://171.213.199.205:4000/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
+http://171.213.199.205:4000/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
+http://171.213.199.205:4000/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
+http://171.213.199.205:4000/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
+http://171.213.199.205:4000/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
+http://171.213.199.205:4000/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
+http://171.213.199.205:4000/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
+http://171.213.199.205:4000/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
+http://171.213.199.205:4000/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
+http://171.213.199.205:4000/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
+http://171.213.199.205:4000/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
+http://171.213.199.205:4000/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
+http://171.213.199.205:4000/rtp/239.10.0.134:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
+http://112.19.88.97:8899/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
+http://112.19.88.97:8899/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
+http://112.19.88.97:8899/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
+http://112.19.88.97:8899/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
+http://112.19.88.97:8899/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
+http://112.19.88.97:8899/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
+http://112.19.88.97:8899/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
+http://112.19.88.97:8899/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
+http://112.19.88.97:8899/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
+http://112.19.88.97:8899/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
+http://112.19.88.97:8899/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
+http://112.19.88.97:8899/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
+http://112.19.88.97:8899/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
+http://112.19.88.97:8899/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
+http://112.19.88.97:8899/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
+http://112.19.88.97:8899/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
+http://112.19.88.97:8899/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
+http://112.19.88.97:8899/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
+http://112.19.88.97:8899/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
+http://112.19.88.97:8899/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
+http://112.19.88.97:8899/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
+http://112.19.88.97:8899/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
+http://112.19.88.97:8899/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
+http://112.19.88.97:8899/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
+http://112.19.88.97:8899/rtp/239.10.0.134:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
+http://36.170.114.144:8808/rtp/239.10.0.32:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
+http://36.170.114.144:8808/rtp/239.10.0.50:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
+http://36.170.114.144:8808/rtp/239.10.0.52:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
+http://36.170.114.144:8808/rtp/239.10.0.53:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.54:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
+http://36.170.114.144:8808/rtp/239.10.0.55:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
+http://36.170.114.144:8808/rtp/239.10.0.56:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
+http://36.170.114.144:8808/rtp/239.10.0.57:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.58:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
+http://36.170.114.144:8808/rtp/239.10.0.59:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.60:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
+http://36.170.114.144:8808/rtp/239.10.0.61:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.62:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
+http://36.170.114.144:8808/rtp/239.10.0.63:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.64:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
+http://36.170.114.144:8808/rtp/239.10.0.65:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
+http://36.170.114.144:8808/rtp/239.10.0.66:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
+http://36.170.114.144:8808/rtp/239.10.0.67:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
+http://36.170.114.144:8808/rtp/239.10.0.68:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
+http://36.170.114.144:8808/rtp/239.10.0.70:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
+http://36.170.114.144:8808/rtp/239.10.0.71:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
+http://36.170.114.144:8808/rtp/239.10.0.73:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.74:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
+http://36.170.114.144:8808/rtp/239.10.0.75:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
+http://36.170.114.144:8808/rtp/239.10.0.76:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
+http://36.170.114.144:8808/rtp/239.10.0.77:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.78:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
+http://36.170.114.144:8808/rtp/239.10.0.79:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.80:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
+http://36.170.114.144:8808/rtp/239.10.0.81:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.82:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
+http://36.170.114.144:8808/rtp/239.10.0.83:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
+http://36.170.114.144:8808/rtp/239.10.0.84:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
+http://36.170.114.144:8808/rtp/239.10.0.96:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
+http://36.170.114.144:8808/rtp/239.10.0.98:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
+http://36.170.114.144:8808/rtp/239.10.0.134:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 http://183.220.107.138:4022/rtp/239.10.0.32:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 http://183.220.107.138:4022/rtp/239.10.0.50:5140
@@ -215,221 +431,77 @@ http://171.213.213.233:4000/rtp/239.10.0.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
 http://171.213.213.233:4000/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
-http://112.19.88.97:8899/rtp/239.10.0.32:5140
+http://183.220.20.17:4321/rtp/239.10.0.32:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
-http://112.19.88.97:8899/rtp/239.10.0.50:5140
+http://183.220.20.17:4321/rtp/239.10.0.50:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
-http://112.19.88.97:8899/rtp/239.10.0.52:5140
+http://183.220.20.17:4321/rtp/239.10.0.52:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.53:5140
+http://183.220.20.17:4321/rtp/239.10.0.53:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.54:5140
+http://183.220.20.17:4321/rtp/239.10.0.54:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
-http://112.19.88.97:8899/rtp/239.10.0.55:5140
+http://183.220.20.17:4321/rtp/239.10.0.55:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
-http://112.19.88.97:8899/rtp/239.10.0.56:5140
+http://183.220.20.17:4321/rtp/239.10.0.56:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
-http://112.19.88.97:8899/rtp/239.10.0.57:5140
+http://183.220.20.17:4321/rtp/239.10.0.57:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.58:5140
+http://183.220.20.17:4321/rtp/239.10.0.58:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
-http://112.19.88.97:8899/rtp/239.10.0.59:5140
+http://183.220.20.17:4321/rtp/239.10.0.59:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.60:5140
+http://183.220.20.17:4321/rtp/239.10.0.60:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
-http://112.19.88.97:8899/rtp/239.10.0.61:5140
+http://183.220.20.17:4321/rtp/239.10.0.61:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.62:5140
+http://183.220.20.17:4321/rtp/239.10.0.62:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.63:5140
+http://183.220.20.17:4321/rtp/239.10.0.63:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.64:5140
+http://183.220.20.17:4321/rtp/239.10.0.64:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
-http://112.19.88.97:8899/rtp/239.10.0.65:5140
+http://183.220.20.17:4321/rtp/239.10.0.65:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
-http://112.19.88.97:8899/rtp/239.10.0.66:5140
+http://183.220.20.17:4321/rtp/239.10.0.66:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
-http://112.19.88.97:8899/rtp/239.10.0.67:5140
+http://183.220.20.17:4321/rtp/239.10.0.67:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
-http://112.19.88.97:8899/rtp/239.10.0.68:5140
+http://183.220.20.17:4321/rtp/239.10.0.68:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
-http://112.19.88.97:8899/rtp/239.10.0.70:5140
+http://183.220.20.17:4321/rtp/239.10.0.70:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
-http://112.19.88.97:8899/rtp/239.10.0.71:5140
+http://183.220.20.17:4321/rtp/239.10.0.71:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
-http://112.19.88.97:8899/rtp/239.10.0.73:5140
+http://183.220.20.17:4321/rtp/239.10.0.73:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.74:5140
+http://183.220.20.17:4321/rtp/239.10.0.74:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
-http://112.19.88.97:8899/rtp/239.10.0.75:5140
+http://183.220.20.17:4321/rtp/239.10.0.75:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
-http://112.19.88.97:8899/rtp/239.10.0.76:5140
+http://183.220.20.17:4321/rtp/239.10.0.76:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
-http://112.19.88.97:8899/rtp/239.10.0.77:5140
+http://183.220.20.17:4321/rtp/239.10.0.77:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.78:5140
+http://183.220.20.17:4321/rtp/239.10.0.78:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
-http://112.19.88.97:8899/rtp/239.10.0.79:5140
+http://183.220.20.17:4321/rtp/239.10.0.79:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.80:5140
+http://183.220.20.17:4321/rtp/239.10.0.80:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
-http://112.19.88.97:8899/rtp/239.10.0.81:5140
+http://183.220.20.17:4321/rtp/239.10.0.81:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.82:5140
+http://183.220.20.17:4321/rtp/239.10.0.82:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
-http://112.19.88.97:8899/rtp/239.10.0.83:5140
+http://183.220.20.17:4321/rtp/239.10.0.83:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
-http://112.19.88.97:8899/rtp/239.10.0.84:5140
+http://183.220.20.17:4321/rtp/239.10.0.84:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
-http://112.19.88.97:8899/rtp/239.10.0.96:5140
+http://183.220.20.17:4321/rtp/239.10.0.96:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
-http://112.19.88.97:8899/rtp/239.10.0.98:5140
+http://183.220.20.17:4321/rtp/239.10.0.98:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
-http://112.19.88.97:8899/rtp/239.10.0.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
-http://171.213.199.205:4000/rtp/239.10.0.32:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
-http://171.213.199.205:4000/rtp/239.10.0.50:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
-http://171.213.199.205:4000/rtp/239.10.0.52:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
-http://171.213.199.205:4000/rtp/239.10.0.53:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.54:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
-http://171.213.199.205:4000/rtp/239.10.0.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
-http://171.213.199.205:4000/rtp/239.10.0.56:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
-http://171.213.199.205:4000/rtp/239.10.0.57:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.58:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
-http://171.213.199.205:4000/rtp/239.10.0.59:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.60:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
-http://171.213.199.205:4000/rtp/239.10.0.61:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.62:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
-http://171.213.199.205:4000/rtp/239.10.0.63:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.64:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
-http://171.213.199.205:4000/rtp/239.10.0.65:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
-http://171.213.199.205:4000/rtp/239.10.0.66:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
-http://171.213.199.205:4000/rtp/239.10.0.67:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
-http://171.213.199.205:4000/rtp/239.10.0.68:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
-http://171.213.199.205:4000/rtp/239.10.0.70:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
-http://171.213.199.205:4000/rtp/239.10.0.71:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
-http://171.213.199.205:4000/rtp/239.10.0.73:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.74:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
-http://171.213.199.205:4000/rtp/239.10.0.75:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
-http://171.213.199.205:4000/rtp/239.10.0.76:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
-http://171.213.199.205:4000/rtp/239.10.0.77:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.78:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
-http://171.213.199.205:4000/rtp/239.10.0.79:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.80:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
-http://171.213.199.205:4000/rtp/239.10.0.81:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.82:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
-http://171.213.199.205:4000/rtp/239.10.0.83:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
-http://171.213.199.205:4000/rtp/239.10.0.84:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
-http://171.213.199.205:4000/rtp/239.10.0.96:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
-http://171.213.199.205:4000/rtp/239.10.0.98:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
-http://171.213.199.205:4000/rtp/239.10.0.134:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",达州文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",德阳文旅科教
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广安文旅乡村
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",广元文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",乐山文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",凉山彝语综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",眉山文旅乡村
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",南充科教
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",内江科教生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",攀枝花文旅生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",遂宁文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",雅安文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",宜宾公共频道
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",资阳新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",自贡文化生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳新闻综合
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",绵阳科教生活
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",CCTV8K
+http://183.220.20.17:4321/rtp/239.10.0.134:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",甘孜综合
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",阿坝汉语
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="本地高清",巴中综合
